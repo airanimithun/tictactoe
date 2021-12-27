@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//airanimithun.github.io/tictactoe/static/css/main.964fdded.css",
-    "main.js": "//airanimithun.github.io/tictactoe/static/js/main.e5adbe83.js",
-    "static/js/787.f3c505a4.chunk.js": "//airanimithun.github.io/tictactoe/static/js/787.f3c505a4.chunk.js",
-    "index.html": "//airanimithun.github.io/tictactoe/index.html",
-    "main.964fdded.css.map": "//airanimithun.github.io/tictactoe/static/css/main.964fdded.css.map",
-    "main.e5adbe83.js.map": "//airanimithun.github.io/tictactoe/static/js/main.e5adbe83.js.map",
-    "787.f3c505a4.chunk.js.map": "//airanimithun.github.io/tictactoe/static/js/787.f3c505a4.chunk.js.map"
+    "main.css": "/tictactoe/static/css/main.964fdded.css",
+    "main.js": "/tictactoe/static/js/main.35a080ac.js",
+    "static/js/787.f3c505a4.chunk.js": "/tictactoe/static/js/787.f3c505a4.chunk.js",
+    "index.html": "/tictactoe/index.html",
+    "main.964fdded.css.map": "/tictactoe/static/css/main.964fdded.css.map",
+    "main.35a080ac.js.map": "/tictactoe/static/js/main.35a080ac.js.map",
+    "787.f3c505a4.chunk.js.map": "/tictactoe/static/js/787.f3c505a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.e5adbe83.js"
+    "static/js/main.35a080ac.js"
   ]
 }
